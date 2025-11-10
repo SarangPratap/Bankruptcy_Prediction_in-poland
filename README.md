@@ -1,6 +1,6 @@
-# 🇵🇱 Bankruptcy Prediction in Polish Companies: A Machine Learning Approach
+# Bankruptcy Prediction in Polish Companies: A Machine Learning Approach
 
-This project explores the use of **Machine Learning (ML)** models to predict corporate bankruptcy in Polish companies using real-world financial data[cite: 10]. The goal is to identify early warning signs of financial distress, enabling banks, investors, and companies to make proactive, informed decisions.
+This project explores the use of **Machine Learning (ML)** models to predict corporate bankruptcy in Polish companies using real-world financial data. The goal is to identify early warning signs of financial distress, enabling banks, investors, and companies to make proactive, informed decisions.
 
 ---
 
@@ -52,10 +52,10 @@ SHAP analysis was performed on the XGBoost model to provide transparency and exp
 
 ## 💻 Repository Structure
 
-* `data/`: Raw and intermediate datasets.
-* `notebooks/`: Jupyter notebooks detailing the data exploration, preprocessing, model training, and SHAP analysis.
+* `dataset.csv`: Raw and intermediate datasets.
+* `notebook`: Jupyter notebooks detailing the data exploration, preprocessing, model training, and SHAP analysis.
 * `reports/`: The full project report (`Report_Bankruptcy_prediction_in_poland.pdf`).
-* `src/`: Any reusable Python scripts or modules.
+* `PPT`: Deck on the project.
 
 ---
 
@@ -69,3 +69,6 @@ This project relies on standard data science libraries, including:
 * `xgboost`
 * `catboost`
 * `shap`
+
+
+## If you really found this helpful, star appreciations to the repository is welcomed.
