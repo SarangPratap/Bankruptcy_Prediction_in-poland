@@ -39,7 +39,7 @@ The models were evaluated, and the **XGBoost** model demonstrated the strongest 
 
 ### 🔎 SHAP Analysis (Top Financial Indicators)
 
-SHAP analysis was performed on the XGBoost model to provide transparency and explainability[cite: 275]. The results align with traditional financial and business logic.
+SHAP analysis was performed on the XGBoost model to provide transparency and explainability. The results align with traditional financial and business logic.
 
 | Rank | Feature | Description | Business Logic / Significance |
 | :--- | :--- | :--- | :--- |
